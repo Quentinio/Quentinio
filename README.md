@@ -1,6 +1,9 @@
 # Hi there, I'm Quentin 👋  
 
 
+📫 Reach me out!
+Twitter Badge Mail Badge Linkedin Badge Mail Badge Mail Badge
+
 ## I'm a freelance developer and a father of two cats and a dog
 
 - 🌱 I’m currently learning everything 🤣
