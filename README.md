@@ -13,13 +13,13 @@
 
 [![website](./img/globe-light.svg)]()
 [![website](./img/globe-dark.svg)]()
-
+&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Quentinios)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Quentinios)
-
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/quentinnewton/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/quentinnewton/)
-
+&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/mrquentinio/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/mrquentinio/)
 
