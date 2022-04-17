@@ -1,7 +1,7 @@
 # Hi there, I'm Quentin 👋  
 
 
-## I'm a freelance developer and a father of two cats and a dog
+## I'm a freelance developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and artists
