@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and artists
-- 🥅 2022 Goals: Learn more about web3 and node.js,
+- 🥅 2023 Goals: Learn more about web3 and node.js, create app with chapGPT
 - ⚡ Fun fact: I love to play League of Legends
 - 😻 Check out the NFT collection I'm working on: [TheShamansClub](https://www.instagram.com/theshamansclub/)
 
